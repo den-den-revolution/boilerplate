@@ -1,0 +1,11 @@
+{
+  "database": {
+    "host": "@@DATABASE_HOST",
+    "password": "@@DATABASE_PASSWORD",
+    "name": "@@DATABASE_NAME",
+    "user": "@@DATABASE_USER"
+  },
+  "auth": {
+    "secret": "test_secret"
+  }
+}
